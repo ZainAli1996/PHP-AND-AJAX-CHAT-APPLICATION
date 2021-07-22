@@ -1,0 +1,17 @@
+.card{
+    margin: 2rem 22rem;
+}
+
+    @media only screen and (max-width :758px){
+
+        .card {
+            margin: 2rem 6rem;
+            width: 20rem;
+            
+        }
+
+        #send{
+            margin-left: 20rem;
+        }
+
+    }
